@@ -1,1 +1,1 @@
-# NaverBlog
+# Recording blog activity
