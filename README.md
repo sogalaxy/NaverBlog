@@ -1,1 +1,0 @@
-# Recording blog activity
